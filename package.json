@@ -1,0 +1,12 @@
+{
+  "name": "parcel-serviceworker-example",
+  "author": "Jared Gesser <request@jabuco-it.de> (http://jabuco-it.de/)",
+  "repository": "github:peanutbother/parcel-serviceworker-example",
+  "scripts": {
+    "start": "parcel serve src/index.html --out-dir dist --public-url /"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.6"
+  },
+  "license": "MIT"
+}
