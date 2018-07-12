@@ -1,1 +1,1 @@
-web: parcel serve src/index.html --out-dir dist --public-url / -p
+web: parcel serve src/index.html --out-dir dist --public-url / -p $PORT
