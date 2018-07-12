@@ -5,6 +5,10 @@
   "scripts": {
     "start": "parcel serve src/index.html --out-dir dist --public-url /"
   },
+  "engines": {
+    "node": ">=8.1.1",
+    "yarn": ">=1.7.0"
+  },
   "dependencies": {
     "parcel-bundler": "^1.9.6"
   },
